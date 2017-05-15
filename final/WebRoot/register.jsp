@@ -42,21 +42,7 @@
 	<center>
 		<form class="cl" name="form">
 			<table align="center" style="padding-left: 5px; padding-right: 5px; padding-top: 5px; width: 364px; padding-bottom: 5px; word-spacing: normal">
-				<tr>
-					<td><span class="fo">用户名</span></td>
-					<td><input class="al" name="unit_name" value="请输入英文" onfocus="this.value='';"></td>
-				</tr>
-
-				<tr>
-					<td style="width: 160px; "><span class="fo">单位性质</span></td>
-					<td><select class="one" name="unit_type">
-							<option value="college">高校</option>
-							<option value="lab">研究所</option>
-							<option value="company">企业</option>
-							<option value="others">其它</option>
-					</select></td>
-				</tr>
-
+				
 				<tr>
 					<td style="width: 103px; "><span class="fo">联系人姓名</span></td>
 					<td><input class="al" name="unit_contact" type="text" value="请输入英文" onfocus="this.value='';"></td>
